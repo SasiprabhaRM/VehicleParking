@@ -3,7 +3,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'k#ml=nk$b4j%qb036=193wx^o%bhy58+z&(w%)d!%vx^fp*ob$'
 DEBUG = True
 
-ALLOWED_HOSTS = ['13.232.66.150']
+ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'vehicle',
